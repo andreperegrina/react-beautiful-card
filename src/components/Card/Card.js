@@ -5,9 +5,9 @@ import CircleButton from "../CircleButton/CircleButton";
 
 
 const Card = (props) => {
-   const {buttons, onClick, color} = props;
+   const {buttons, onClick, color, style, size} = props;
    return (
-      <div className={`Card ${color}`} onClick={onClick}>
+      <div className={`Card ${color} ${size}`} onClick={onClick} style={style}>
          <div className='image-container'>
             <img src={props.image} alt='doggie'/>
          </div>
