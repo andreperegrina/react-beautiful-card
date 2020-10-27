@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-beautiful-card/static/css/main.3aedce0b.chunk.css",
+    "main.css": "/react-beautiful-card/static/css/main.87c4d1dc.chunk.css",
     "main.js": "/react-beautiful-card/static/js/main.964b9f77.chunk.js",
     "main.js.map": "/react-beautiful-card/static/js/main.964b9f77.chunk.js.map",
     "runtime-main.js": "/react-beautiful-card/static/js/runtime-main.a63e71fa.js",
@@ -8,16 +8,16 @@
     "static/js/2.0e75998e.chunk.js": "/react-beautiful-card/static/js/2.0e75998e.chunk.js",
     "static/js/2.0e75998e.chunk.js.map": "/react-beautiful-card/static/js/2.0e75998e.chunk.js.map",
     "index.html": "/react-beautiful-card/index.html",
-    "precache-manifest.d340044cb898f0ad3c3010a4df82c341.js": "/react-beautiful-card/precache-manifest.d340044cb898f0ad3c3010a4df82c341.js",
+    "precache-manifest.ad4388c3639cbfbe091292d1b24c02f0.js": "/react-beautiful-card/precache-manifest.ad4388c3639cbfbe091292d1b24c02f0.js",
     "service-worker.js": "/react-beautiful-card/service-worker.js",
-    "static/css/main.3aedce0b.chunk.css.map": "/react-beautiful-card/static/css/main.3aedce0b.chunk.css.map",
+    "static/css/main.87c4d1dc.chunk.css.map": "/react-beautiful-card/static/css/main.87c4d1dc.chunk.css.map",
     "static/js/2.0e75998e.chunk.js.LICENSE.txt": "/react-beautiful-card/static/js/2.0e75998e.chunk.js.LICENSE.txt",
     "static/media/meeting.svg": "/react-beautiful-card/static/media/meeting.ee312726.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a63e71fa.js",
     "static/js/2.0e75998e.chunk.js",
-    "static/css/main.3aedce0b.chunk.css",
+    "static/css/main.87c4d1dc.chunk.css",
     "static/js/main.964b9f77.chunk.js"
   ]
 }
