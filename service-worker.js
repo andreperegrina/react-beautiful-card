@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-beautiful-card/precache-manifest.5a507a3afd7e4ad8e0ebe08012667b3f.js"
+  "/react-beautiful-card/precache-manifest.d340044cb898f0ad3c3010a4df82c341.js"
 );
 
 self.addEventListener('message', (event) => {

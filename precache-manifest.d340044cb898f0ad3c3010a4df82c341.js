@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84a7d544f27f16057599c023f95e85a2",
+    "revision": "eb25c1619ad026656fc1304550614c0e",
     "url": "/react-beautiful-card/index.html"
   },
   {
-    "revision": "91cbbcaa11addf680144",
-    "url": "/react-beautiful-card/static/css/main.395c1c67.chunk.css"
+    "revision": "7cd1f230f6d18cb55f80",
+    "url": "/react-beautiful-card/static/css/main.3aedce0b.chunk.css"
   },
   {
     "revision": "6045342792fe4bf2f638",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-beautiful-card/static/js/2.0e75998e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "91cbbcaa11addf680144",
-    "url": "/react-beautiful-card/static/js/main.4e6dfcbd.chunk.js"
+    "revision": "7cd1f230f6d18cb55f80",
+    "url": "/react-beautiful-card/static/js/main.964b9f77.chunk.js"
   },
   {
     "revision": "77f3737e6504b09025eb",
