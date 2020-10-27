@@ -1,19 +1,25 @@
 html, body, #root {
-    width: 100%;
-    height: 100%;
+    height:100vh;
+    width:100vw;
     background-color: #1a1a2e;
 }
 
 .App {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
-    width: 100%;
-    height: 100%;
+    height:100vh;
+    width:100vw;
 }
 
-.App .title-container {
+.App>.container {
+    margin: auto;
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.App>.title-container {
     margin-bottom: 3rem;
 }
 
@@ -22,10 +28,9 @@ html, body, #root {
 }
 
 .App .list-cards {
-    flex-direction: row;
-    display: flex;
-}
-
-.App .list-cards .Card {
-    margin-right: 2rem;
+    width: 100%;
+    max-width: 1240px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    grid-gap: 2rem;
 }

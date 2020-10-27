@@ -53,13 +53,13 @@
     text-align: center;
 }
 
-.Card .title-container h1 {
+.Card>.title-container h1 {
     color: white;
     margin-bottom: 1rem;
     line-height: 2.5rem;
 }
 
-.Card .title-container span {
+.Card>.title-container span {
     color: rgba(255, 255, 255, 0.5);
     font-size: 1.2em;
 }
